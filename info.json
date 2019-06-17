@@ -1,0 +1,11 @@
+{
+	"name": "Bulwarks",
+	"version": "0.1.0",
+	"title" : "Bulwarks",
+	"author" : "TheENGR",
+	"contact":"",
+	"homepage":"",
+	"factorio_version": "0.17",
+	"dependencies": ["base >= 0.17"],
+	"description":"Adds more walls!"
+}
